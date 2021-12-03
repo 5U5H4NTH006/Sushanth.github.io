@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <!-- Global site verification -->
+    <meta name="google-site-verification" content="gd-Coa5GnN-8AVBIBflugd0qYIX2l1wdQfw4UxkGwws" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE91369TX8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TE91369TX8');
+</script>
+
+    <title>Sushanth</title>
+</head>
+
+<body id="top">
+     <header>
+          <h1>Sushanth</h1>
+          <p class="author">
+            Sushanth
+          </p>
+        </header>
+<p>Check out my <a href="https://google.com">blog</a>.</p>
+<p>Check out my <a href="#publications">publications</a>(Link to publications will be added here).</p>
+<p>You can contact me if you want to check out my résumé.</p>
+<br>
+Contact me 
+<ul>
+  <li>Discord :asass </li>
+  <li>Email :  sasasa</li>
+  <li>Telegram : saasasa</li>
+  <li>Github : <a href="https://github.com/5U5H4NTH006">SUSHANTH</a></li>
+</ul>
+<br>
+<br>
+<center>sushanth</center>
+</body>
